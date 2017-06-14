@@ -1,0 +1,20 @@
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.urgent {
+    background-color: red;
+}
+.urgent a {
+    color: white;
+}
+a {
+    text-decoration: none;
+}
+.done {
+    text-decoration: line-through;
+}
+.red {
+    color: red;
+}
